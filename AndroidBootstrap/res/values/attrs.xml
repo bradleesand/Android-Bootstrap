@@ -13,7 +13,7 @@
     </declare-styleable>
     
      <declare-styleable name="FontAwesomeText">
-        <attr name="icon" format="string"/>
+        <attr name="font_icon" format="string"/>
         <attr name="android:textSize"/>
         <attr name="android:textColor"/>
 

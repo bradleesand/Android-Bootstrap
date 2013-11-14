@@ -73,8 +73,8 @@ public class FontAwesomeText extends FrameLayout {
 		float fontSize = 14.0f;
 		
 		//icon
-		if (a.getString(R.styleable.FontAwesomeText_icon) != null) {
-			icon = faMap.get( a.getString(R.styleable.FontAwesomeText_icon) );
+		if (a.getString(R.styleable.FontAwesomeText_font_icon) != null) {
+			icon = faMap.get( a.getString(R.styleable.FontAwesomeText_font_icon) );
 		}
 		
 		//font size
